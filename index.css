@@ -1,0 +1,162 @@
+.back-to-amazon:hover {
+    color:red;
+  }
+  
+  /* add To Cart button */
+
+  .add-to-cart-button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    width: 115px;
+    height: 29px;
+    border-radius: 20px;
+    margin-right: 6px;
+    cursor: pointer;
+  }
+  .add-to-cart-button:hover {
+    opacity: 0.8; 
+  }
+  .add-to-cart-button:active {
+    opacity: 0.5;
+  }
+
+  /* Buy-Now */
+
+    .Buy-Now {
+    background-color: rgb(255, 164, 28);
+    border: none;
+    width: 115px; 
+    height: 29px;
+    border-radius: 20px;
+    margin-right: 5px;
+    cursor: pointer;
+  } 
+  .Buy-Now:hover {
+    opacity: 0.8; 
+  }
+  .Buy-Now:active {
+    opacity: 0.5;
+  }
+  
+  /* Request-now */
+
+  .Request-now {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    border: none;
+    width: 110px; 
+    height: 30px;
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  .Request-now:hover {
+    opacity: 0.8; 
+  }
+
+    /* Sign-up */
+
+  .Sign-up {
+    background-color:green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    width: 100px; 
+    height: 30px;
+    margin-right: 5px;
+    cursor: pointer;
+    font-weight: bold; 
+    transition: box-shadow 0.15s ;
+  }
+  .Sign-up:hover {
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.35);
+  }
+
+    /* Get-started */
+
+  .Get-started {
+    background-color: slateblue;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    width: 100px; 
+    height: 30px;
+    margin-right: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: opacity 0.15s;
+  }
+  .Get-started:hover{ 
+    background-color: rgb(106, 97, 163);
+  }
+
+    /* Download */
+  .Download {
+    background-color: #ffffff;
+    color:grey;
+    border: solid;
+    border-radius: 4px;
+    border-width: 1px;
+    width: 100px; 
+    height: 35px;
+    margin-top: 10px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: opacity 0.15s;
+  }
+
+  .Download:hover {
+    background-color: grey;
+    color: white;
+  }
+ 
+ /* Apply on company website */
+
+
+  .Apply-on-company-website {
+   background-color:rgb(48, 94, 180);
+   border: none;
+   border-radius: 20px;
+    width: 200px;
+    height: 29px;
+    color: white;
+    font-weight: bold;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+  }
+
+  .Apply-on-company-website:hover {
+    background-color:rgb(8, 64, 150) ;
+  }
+
+
+    /* Save */
+
+  .Save{
+    background-color:rgb(255, 255, 255);
+    border: solid;
+    border-radius: 20px;
+    border-width: 2px;
+    height: 29px;
+    width: 70px;
+    margin-left: 10px; 
+    cursor: pointer;
+    transition: opacity 0.15s;
+    border-color: rgb(37, 96, 184);
+    color: rgb(37, 96, 184);
+    font-weight: bold;
+    transition: opacity 0.15s;
+    }
+
+    .Save:hover{
+      background-color:rgba(37, 96, 184 , 0.12);
+      color: rgb(37, 96, 184);
+    }
+
+    /* ghanizada */
+    #ghanizada {
+      color: rgb(0, 0, 0);
+      text-align: center;
+      margin-top: 20px;
+      font-size: 180px;
+    }
